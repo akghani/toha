@@ -38,8 +38,8 @@ features = [
 ]
 
 [author]
-  homepage = "https://hossainemruz.github.io"
-  name = "Emruz Hossain"
+  homepage = "https://akghani.github.io"
+  name = "Abdelkarim el Ghani"
 
 [module]
   [module.hugoVersion]
